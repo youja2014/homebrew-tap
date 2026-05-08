@@ -3,8 +3,8 @@ class Smoothline < Formula
 
   desc "Smooth, gradient statusline for Claude Code"
   homepage "https://github.com/youja2014/smoothline"
-  url "https://files.pythonhosted.org/packages/d6/79/97d37ff929148c7dd0d2086cfb28a8fe6b9b955d96012675a298577f379f/smoothline-0.1.0.tar.gz"
-  sha256 "1788b72adbc7c117e32d64198c74831d24fdb2d989bac3dfd9bb37cf020f31a8"
+  url "https://files.pythonhosted.org/packages/2c/34/680e76a00d6178b816fda4d36db4ed6b8e4a4a3790e16adaae44b95964c6/smoothline-0.1.1.tar.gz"
+  sha256 "094785c2228e85765f5b80119cd1442c358d4671d80cac269586937d38ee0bfc"
   license "MIT"
 
   depends_on "python@3.12"
